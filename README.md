@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="google.com">My Website</a>
+  <a href="[google.com](https://rayhyper.github.io/Portfolio-Updated/)">My Website</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
