@@ -1,6 +1,5 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/c/c2/Northern_Lights-banner1.jpg)
-<h1 align="center">Hi 👋, I'm Ray</h1>
-<h3 align="center">A coder learning web dev!</h3>
+<h1 align="center">Hi 👋, I'm Ray A coder learning web dev!</h1>
 <h3 align="center">First Year Cs Student 😎 💻</h3>
 
 <h3 align="center">Languages and Tools:</h3>
