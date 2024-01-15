@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raymond Lam</h1>
 <h3 align="center">A second year Computer Science student at Toronto Metropolitan University.</h3>
-<br>
+
+
 - 🔭 I’m currently working on [The Square](https://github.com/RayHyper/TMU-Map)
 - 🌱 I’m currently learning **React, Node.js**
 - 📫 How to reach me **raymondlam234@gmail.com**
+- 🙂 Looking for a summer 2024 co-op job
 - ⚡ Fun fact **Playing piano and speedcube as a hobby.**
 
 
