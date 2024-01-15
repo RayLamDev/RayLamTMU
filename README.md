@@ -2,12 +2,9 @@
 <h3 align="center">A second year Computer Science student at Toronto Metropolitan University.</h3>
 
 - 🔭 I’m currently working on [The Square](https://github.com/RayHyper/TMU-Map)
-
 - 🌱 I’m currently learning **React, Node.js**
-
 - 📫 How to reach me **raymondlam234@gmail.com**
-
-- ⚡ Fun fact **I can play the piano and speedcube as a hobby.**
+- ⚡ Fun fact **Playing piano and speedcube as a hobby.**
 
 
 ## 🌐 Socials:
