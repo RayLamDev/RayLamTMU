@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raymond Lam</h1>
-<h3 align="center">A second-year Computer Science student at Toronto Metropolitan University.</h3>
+<h3 align="center">A 2nd year Computer Science student at Toronto Metropolitan University.</h3>
 
 
 - 🔭 I’m currently working on [The Square](https://github.com/RayHyper/TMU-Map)
