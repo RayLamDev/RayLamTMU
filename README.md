@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React, Node.js**
 - 📫 How to reach me **raymondlam234@gmail.com**
 - 🙂 Looking for a summer 2024 co-op job
-- ⚡ Fun fact **I like playing table tennis and the piano!**
+- ⚡ I like playing table tennis and the piano!
 
 
 ## 🌐 Socials:
