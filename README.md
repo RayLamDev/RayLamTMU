@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [The Square](https://github.com/RayHyper/TMU-Map)
 - 🌱 I’m currently learning **React, Node.js**
 - 📫 How to reach me **raymondlam234@gmail.com**
-- 🙂 Looking for a summer 2024 co-op job
+- 🙂 Grinding Leetcode
 - ⚡ I like playing table tennis and the piano!
 
 
