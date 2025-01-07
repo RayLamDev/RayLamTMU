@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raymond Lam</h1>
-# 💫 About Me:
+About Me:
 🌱 I’m currently learning Vue.js
 
 
