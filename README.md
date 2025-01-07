@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Raymond Lam</h1>
 <h3 align="center">A 3rd year Computer Science student at Toronto Metropolitan University.</h3>
-#About Me:
+
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me **raymondlam234@gmail.com**
 
