@@ -10,7 +10,7 @@ About Me:
 
 [![](https://visitcount.itsvg.in/api?id=RayHyper&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=RayHyper&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=RayHyper&style=flat-square&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
