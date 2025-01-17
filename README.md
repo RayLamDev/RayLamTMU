@@ -9,9 +9,9 @@
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 
 
-[![](https://visitcount.itsvg.in/api?id=RayHyper&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RayLamTMU&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=RayHyper&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=RayLamTMU&style=flat-square&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
