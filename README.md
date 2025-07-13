@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Raymond Lam</h1>
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I like making stuff
 - 📫 How to reach me **raymondlam234@gmail.com**
 - 👨‍🎓 I'm a 3rd year CS student at TMU
 
